@@ -1,7 +1,7 @@
 <img width="400px height="400px src="https://media.licdn.com/dms/image/D5612AQE69SAPa_b1fA/article-cover_image-shrink_720_1280/0/1687014406391?e=2147483647&v=beta&t=A0-wzOpoThQB6Pl5LKh9q2CuILMt87YEZOK0J3QKTxk">
 <h1 align="center">Hi 👋, I'm Bilal-Raj</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://media.licdn.com/dms/image/D5612AQE69SAPa_b1fA/article-cover_image-shrink_720_1280/0/1687014406391?e=2147483647&v=beta&t=A0-wzOpoThQB6Pl5LKh9q2CuILMt87YEZOK0J3QKTxk"
+<img  src="https://media.licdn.com/dms/image/D5612AQE69SAPa_b1fA/article-cover_image-shrink_720_1280/0/1687014406391?e=2147483647&v=beta&t=A0-wzOpoThQB6Pl5LKh9q2CuILMt87YEZOK0J3QKTxk width="400px">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-raj" alt="bilal-raj" /></a> </p>
 
