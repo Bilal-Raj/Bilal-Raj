@@ -1,4 +1,4 @@
-<img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/qwodeuhyxmh4xncax7de/frontend-developer-front-end-front-end-engineer-frontend-front-end-developer.png" width="100%">
+<img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/qwodeuhyxmh4xncax7de/frontend-developer-front-end-front-end-engineer-frontend-front-end-developer.png" width="100%" height="400px">
 <h1 align="center">Hi 👋, I'm Bilal-Raj</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" src="https://media.licdn.com/dms/image/D5612AQE69SAPa_b1fA/article-cover_image-shrink_720_1280/0/1687014406391?e=2147483647&v=beta&t=A0-wzOpoThQB6Pl5LKh9q2CuILMt87YEZOK0J3QKTxk" width="400px" >
